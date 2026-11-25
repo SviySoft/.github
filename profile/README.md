@@ -17,4 +17,4 @@
 
 - Website: [sviysoft.com](https://sviysoft.com)
 - Email: [info@sviysoft.com](mailto:info@sviysoft.com)
-- [LinkedIn](https://linkedin.com/company/sviysoft) · [X](https://x.com/sviysoft) · [Facebook](https://facebook.com/sviysoft) · [Instagram](https://instagram.com/sviysoft)
+- [LinkedIn](https://linkedin.com/company/sviysoft) · [X](https://x.com/sviysoft) · [Facebook](https://facebook.com/sviysoft) · [Instagram](https://instagram.com/sviysoft) · [Telegram](https://t.me/sviysoft) · [YouTube](https://www.youtube.com/@sviysoft)
